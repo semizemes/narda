@@ -25,6 +25,12 @@ h1 {
   align-items: center;
 }
 
+.fullboard{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
